@@ -90,15 +90,21 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 Some of the modules we used:
 
 -babel
+
 -node lib
+
 -vue
+
 -webassembly
+
 -bootstrap
+
 -browserify
 
 
 ## Authors
 
 Sara Rodrigues
+
 Tiago Fernandes
 
