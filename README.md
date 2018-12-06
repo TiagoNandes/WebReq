@@ -11,10 +11,6 @@ WebReq is a Web application to manage the material purchased by the school, its 
 
 # Repo Structure
 
-## node_modules folder
-
-
-Contains installed packages and dependencies needed to build the project.
 
 ## public folder
 
