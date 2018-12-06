@@ -1,5 +1,5 @@
 ﻿# Welcome to WebReq!
-![alt text](https://raw.githubusercontent.com/TiagoNandes/WebReq/master/LOGO%203.png)
+![alt text](https://raw.githubusercontent.com/TiagoNandes/WebReq/master/webreq_project/src/assets/logoWEBREQ.png)
 
 
 This project is being developed by Sara Rodrigues and Tiago Fernandes for the subject Web Programming I of the degree Web Technologies and Information Systems, taught in the Superior School of Media Arts and Design.
