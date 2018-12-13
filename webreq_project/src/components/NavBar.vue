@@ -39,8 +39,8 @@
             class="btn btn-light action-button"
             role="button"
             href="#"
-            style="height:30px; background-color:rgb(20,133,238); text-align: center; font-family:Karla, sans-serif;"
-          >Login<router-link :to="{ name: 'login' }" :class="{ 'nav-link': true }"></router-link></a>
+            style=" background-color:rgb(20,133,238); font-family:Karla, sans-serif;">
+          <router-link :to="{ name: 'login' }" :class="{ 'nav-link': true }">Login</router-link></a>
         </span>
       </div>
     </div>
