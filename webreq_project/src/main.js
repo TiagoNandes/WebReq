@@ -2,24 +2,17 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from "./router";
 
+require("../src/assets/css/Contact-Form-Clean.css");
+require("../src/assets/css/Features-Boxed.css");
+require("../src/assets/css/Footer-Basic.css");
+require("../src/assets/css/Footer-Clean.css");
+require("../src/assets/css/Login-Form-Clean.css");
+require("../src/assets/css/Navigation-with-Button.css");
+require("../src/assets/css/styles.css");
+// require("https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js");
+// require("https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.0/js/bootstrap.bundle.min.js");
+//require("../src/assets/js/bs-animation.js");
 
-/*require('./assets/js/contact_me.js')
-require('./assets/js/jqBootstrapValidation.js')
-require('./assets/css/bootstrap3/js/bootstrap.js')
-require('./assets/js/login-register.js')
-require('./assets/js/bootstrap.js')
-require('./assets/js/SmoothScroll.js')
-require('./assets/js/nivo-lightbox.js')
-//require('jquery')
-var $ = require("jquery")(window);
-
-/*
-var _ = require('lodash');
-var _ = require('webpack');
-//window.$ = require('jquery')
-//window.JQuery = require('jquery')
-*/
-//require('./assets/js/page.js')
 
 Vue.config.productionTip = false
 

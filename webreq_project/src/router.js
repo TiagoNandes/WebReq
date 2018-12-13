@@ -9,9 +9,10 @@ import ListaUtilizadores from "./views/ListaUtilizadores.vue";
 import MinhasRequisicoes from "./views/MinhasRequisicoes.vue";
 import ValidacaoRequisicoes from "./views/ValidacaoRequisicoes.vue";
 import VerificacaoDevolucoes from "./views/VerificacaoDevolucoes.vue";
+import Contactos from "./views/Contactos.vue";
+import Login from "./views/Login.vue";
 
 Vue.use(Router);
-//Vue.use(BootstrapVue);
 
 export default new Router({
     routes: [{
@@ -43,6 +44,16 @@ export default new Router({
         path: "/verificacao",
         name: "verificacao-devolucoes",
         component: VerificacaoDevolucoes
+    },
+    {
+        path: "/contactos",
+        name: "contactos",
+        component: Contactos
+    },
+    {
+        path:"/login",
+        name:"login",
+        component: Login
     },
     {
         path:"*",
