@@ -5,7 +5,7 @@
 </template>
 
 
-<script>
+<script>/*
 export default {
   data: function() {
     return {
@@ -36,13 +36,13 @@ export default {
     } else {
       this.equipamentos = JSON.parse(localStorage.getItem("equipamentos"));
     }
-  },/*
+  },*//*
   mounted(){
     let mainScript = document.createElement('script')
     mainScript.setAttribute('src','./assets/js/page.js')
   document.head.appendChild(mainScript)
   }*/
-};
+//};
 </script>
 
 <style>

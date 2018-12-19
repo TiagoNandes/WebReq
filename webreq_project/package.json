@@ -8,20 +8,27 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "ajv": "^6.6.2",
     "babel-install": "^2.1.0",
+    "config": "^3.0.1",
     "jquery": "^3.3.1",
     "jsdom": "^13.0.0",
     "loadash": "^1.0.0",
     "lodash": "^4.17.11",
     "lodash-es": "^4.17.11",
     "module": "^1.2.5",
+    "promise": "^8.0.2",
     "resistdesign-babel-config": "^2.0.0",
     "scrollspy": "^1.6.0",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^7.32.4",
+    "vee-validate": "^2.1.4",
     "vue": "^2.5.17",
     "vue-route": "^1.5.1",
     "vue-route-generator": "^0.3.3",
     "vue-router": "^3.0.2",
     "vuex": "^3.0.1",
+    "vuex-crud": "^0.3.2",
     "webpack-cli": "^3.1.2"
   },
   "devDependencies": {
@@ -32,7 +39,7 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
     "vue-template-compiler": "^2.5.17",
-    "webpack": "^4.27.0"
+    "webpack": "^4.27.1"
   },
   "eslintConfig": {
     "root": true,
